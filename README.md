@@ -109,7 +109,7 @@ You will enter your:
 - and Phone Number.
 
 
-> Contact me at luangrahtiger@gmail.com or write your issue if you encounter any related bugs or errors.
+> Contact me at luangrathtiger@gmail.com or write your issue if you encounter any related bugs or errors.
 
 
 

@@ -58,10 +58,10 @@ Same as before. You need two dependencies.
 - Homebrew
 - whiptail and newet
 
-  You can get the donwload link from [Homebrew's official website.](https://brew.sh)
+You can get the donwload link from [Homebrew's official website.](https://brew.sh)
 
-``
-You also need to install the **Xcode Command Line Tools.** durring installation of Homebrew.
+
+You also need to install the **Xcode Command Line Tools** durring installation of Homebrew.
 
 Now, after installation, run:
 ```

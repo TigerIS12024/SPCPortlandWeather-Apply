@@ -1,6 +1,6 @@
 # SPCPortland Weather Staff Apply program.
 
-This program is a .sh script. When you execute it, it opens up a menu, similar to the one when you run a Cisco Unified Communications .iso file on a Virtual Machine. 
+This program is a .sh script, builded using Linux and nano.  When you execute it, it opens up a menu, similar to the one when you run a Cisco Unified Communications .iso file on a Virtual Machine. 
 
 > Windows and Ubuntu and macOS was **Tested.** Linux and Debain has not been tested.
 

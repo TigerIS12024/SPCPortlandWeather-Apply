@@ -15,7 +15,7 @@ Before running on Windows, Install the **Ubuntu Terminal** using this command:
 ```
 wsl --install
 ```
-Sometimes, after the installation, it will prompt you to restart your commputer toapply the changes. WSL has **Ubuntu** included.
+Sometimes, after the installation, it will prompt you to restart your commputer to apply the changes. WSL has **Ubuntu** included.
 
 Now after you restart your computer, open **Windows PowerShell** or **Command Prompt**,  run:
 
